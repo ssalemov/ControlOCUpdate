@@ -1,7 +1,7 @@
 {
-   "Update_OC_v1_ProjectBeta" : {
-      "version": "1",
-      "version_update": "OC01112025",
+   "Update_OC_v0.25_ProjectBeta" : {
+      "version": "0.25",
+      "version_update": "Ckrnl_1_17062026",
       "description": "Beta",
       "changelog":"https://ssalemov.github.io/ControlOCUpdate/Changelog",
       "file_update": "https://ssalemov.github.io/ControlOCUpdate/Control_OC_v1_ProjectBeta.zip"
