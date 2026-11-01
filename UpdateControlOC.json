@@ -1,10 +1,10 @@
 {
-   "available_version" : "025",
-   "Update_OC_v025" : {
-      "version": "0.25",
-      "version_update": "025.1.168.10092026",
+   "available_version" : "033",
+   "Update_OC_v033" : {
+      "version": "0.33",
+      "version_update": "033.1.312.30102026",
       "description": "Pre-release",
-      "changelog":"https://ssalemov.github.io/ControlOCUpdate/Changelog",
-      "file_update": "https://ssalemov.github.io/ControlOCUpdate/null.zip"
+      "changelog":"https://raw.githubusercontent.com/ssalemov/ControlOCUpdate/refs/heads/main/changelog.md",
+      "file_update": "https://ssalemov.github.io/ControlOCUpdate/v0.33/update.tar"
    }
 }
